@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int judge[11];
+    int judge[10];
 
     while (cin >> judge[0])
     {
